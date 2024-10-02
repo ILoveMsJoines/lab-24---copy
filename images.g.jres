@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAHDzHwAAgIgAMBf/B3eAiAgA9/8HgIiIiAN3d3dwWIgIMP9xd4+IiAgD8X/3D3AAiAD/f/cCdwAAAHMDAAAHAAAABwAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Gnarp Gnarp"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAEBGqqqoAAAAQEf+qqgAAABoR/6qqqgoA////qvr/qqD6/x+q+v+qoP///6r6P6qq+vqqqqqqqqqqqqqqqqqqqqqqqhGhqqqgqqqqEfGvqqCqqqoR8a+qAKqq+v//r6oAo6qq//+hqjAzoPr//68KADAzoK+vqgAAAAMAqqqqAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "evil"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
